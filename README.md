@@ -8,3 +8,5 @@ Spring Boot + PostgreSQL CRUD application by Toleukhan Aidos
 - POST   /api/students       - create student
 - PUT    /api/students/{id}  - update student (added in feature/toleukhan-aidos-crud)
 - DELETE /api/students/{id}  - delete student
+
+CI: Jenkins pipeline runs automatically on every push (pollSCM) - Toleukhan Aidos
