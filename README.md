@@ -1,5 +1,5 @@
 # Toleukhan Aidos Student API
-Spring Boot CRUD application by Toleukhan Aidos
+Student management REST API documented by Toleukhan Aidos
 
 ## Endpoints
 - GET    /api/info           - application info
