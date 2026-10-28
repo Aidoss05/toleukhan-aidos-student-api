@@ -7,6 +7,6 @@ class StudentNameTest {
     @Test
     void studentNameIsCorrect() {
         String author = "Toleukhan Aidos";
-        assertEquals("Wrong Student", author, "Controlled failure by Toleukhan Aidos");
+        assertEquals("Toleukhan Aidos", author, "Controlled failure by Toleukhan Aidos");
     }
 }
