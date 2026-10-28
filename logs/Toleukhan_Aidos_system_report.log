@@ -1,0 +1,40 @@
+========================================
+Student: Toleukhan Aidos
+Date and time: 2026-10-28 18:08:17
+Username: vboxuser
+OS: Ubuntu 24.04.3 LTS
+Kernel: 6.14.0-36-generic
+--- CPU ---
+CPU(s):                                  1
+Model name:                              AMD Ryzen 9 4900HS with Radeon Graphics
+--- Memory ---
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       1.4Gi       170Mi        40Mi       584Mi       559Mi
+Swap:             0B          0B          0B
+--- Disk usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        30G   12G   18G  40% /
+/dev/sr0         51M   51M     0 100% /media/vboxuser/VBox_GAs_7.2.21
+--- Available disk space on / ---
+  18G
+========================================
+========================================
+Student: Toleukhan Aidos
+Date and time: 2026-10-28 18:10:46
+Username: vboxuser
+OS: Ubuntu 24.04.3 LTS
+Kernel: 6.14.0-36-generic
+--- CPU ---
+CPU(s):                                  1
+Model name:                              AMD Ryzen 9 4900HS with Radeon Graphics
+--- Memory ---
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       1.4Gi       155Mi        44Mi       600Mi       557Mi
+Swap:             0B          0B          0B
+--- Disk usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        30G   12G   18G  40% /
+/dev/sr0         51M   51M     0 100% /media/vboxuser/VBox_GAs_7.2.21
+--- Available disk space on / ---
+  18G
+========================================
