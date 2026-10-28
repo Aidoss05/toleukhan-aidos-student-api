@@ -43,6 +43,15 @@ public class StudentController {
         return repository.save(student);
     }
 
+    @PutMapping("/students/{id}")
+    public Student update(@PathVariable Long id, @RequestBody Student updated) {
+        Student student = repository.findById(id).orElseThrow(() -> notFound(id));
+        student.setFullName(updated.getFullName());
+        student.setEmail(updated.getEmail());
+        student.setGroupName(updated.getGroupName());
+        return repository.save(student);
+    }
+
     @DeleteMapping("/students/{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void delete(@PathVariable Long id) {
