@@ -65,7 +65,3 @@ pipeline {
         }
     }
 }
-EOF
-git add Jenkinsfile
-git commit -m "Add Jenkins pipeline by Toleukhan Aidos"
-git push
