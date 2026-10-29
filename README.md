@@ -11,3 +11,4 @@ Spring Boot + PostgreSQL CRUD application by Toleukhan Aidos
 
 CI: Jenkins pipeline runs automatically on every push (pollSCM) - Toleukhan Aidos
 Automatic build check - Toleukhan Aidos
+Automatic trigger test - Toleukhan Aidos
