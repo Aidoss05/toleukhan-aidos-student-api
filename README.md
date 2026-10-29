@@ -10,3 +10,4 @@ Spring Boot + PostgreSQL CRUD application by Toleukhan Aidos
 - DELETE /api/students/{id}  - delete student
 
 CI: Jenkins pipeline runs automatically on every push (pollSCM) - Toleukhan Aidos
+Automatic build check - Toleukhan Aidos
